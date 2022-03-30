@@ -4,6 +4,7 @@
 - Prevendo o preço de casas
 - JSON, serialização e autenticação
 - Python requests e ambiente virtual
+- Cookiecutter
 
 Mais um framework para aplicações web:\
 https://trypyramid.com/
