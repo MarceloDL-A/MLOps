@@ -4,7 +4,7 @@
 - Prevendo o preço de casas
 - JSON, serialização e autenticação
 - Python requests e ambiente virtual
-- Cookiecutter
+- [Cookiecutter Datas Science](https://drivendata.github.io/cookiecutter-data-science/)
 
 Mais um framework para aplicações web:\
 https://trypyramid.com/
