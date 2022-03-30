@@ -5,5 +5,5 @@
 - JSON, serialização e autenticação
 - Python requests e ambiente virtual
 
-Mais um framework para aplicações web:
+Mais um framework para aplicações web:\
 https://trypyramid.com/
